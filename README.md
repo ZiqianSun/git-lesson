@@ -1,6 +1,6 @@
 # git-lesson
 
-** Locations: Sheffield
+** Locations: Sheffield **
 
 ## Before the lesson
 
