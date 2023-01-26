@@ -1,0 +1,4 @@
+- learn Git
+- learn Python
+- learn R
+- learn Linux
